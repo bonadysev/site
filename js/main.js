@@ -10,5 +10,7 @@ window.addEventListener("DOMContentLoaded", () => {
             elem.classList.add("tabs__item_active")
         });
     });
-    $('.carousel').slick();
 });
+
+let a = document.querySelectorAll(".tabs__item")
+    console.log(a);
