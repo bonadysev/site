@@ -2,4 +2,4 @@
 Используем:
 https://fontawesome.com/
 https://kenwheeler.github.io/slick/
-https://uifaces.co/# site_2
+https://uifaces.co/# site_2_
